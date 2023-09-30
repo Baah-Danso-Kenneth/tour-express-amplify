@@ -1,6 +1,6 @@
 import { Size } from "./stylestypes";
 
-expot const size:Size={
+export const size:Size={
     xs:'400px',
     sm:'600px',
     md:'900px',
